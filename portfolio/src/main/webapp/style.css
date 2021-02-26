@@ -7,3 +7,17 @@
 #greeting-container {
   margin-top: 20px;
 }
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 180px;
+}
+body {
+  background-color: lightblue;
+}
+#button {
+  background-color: white;
+  color: black;
+  border: 2px solid purple;
+}
